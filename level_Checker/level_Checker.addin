@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>level_Checker - Command 1</Text>
+    <Description>Some description for level_Checker</Description>
+    <Assembly>level_Checker.dll</Assembly>
+    <FullClassName>level_Checker.Command1</FullClassName>
+    <ClientId>aca2d172-ec23-460c-9d89-b1ba983c5b9a</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>level_Checker - Command 2</Text>
+    <Description>Some description for level_Checker</Description>
+    <Assembly>level_Checker.dll</Assembly>
+    <FullClassName>level_Checker.Command2</FullClassName>
+    <ClientId>325ef621-fb53-4faf-98f1-c9503c75e0f0</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>level_Checker</Name>
+    <Assembly>level_Checker.dll</Assembly>
+    <FullClassName>level_Checker.App</FullClassName>
+    <ClientId>cd2fe0d0-a0c9-4ae5-80c6-f96b887e16f7</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
